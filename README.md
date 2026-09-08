@@ -24,7 +24,7 @@ This repository is the **lightweight executable computational core** of the stud
 - scientific/repository tests;
 - environment specifications, licenses, provenance, and integrity manifests.
 
-The complete archival package also contains the manuscript PDFs, seven publication figures, source LaTeX, retained development-stage scripts, additional frozen tables, and large numerical assets. Those binary/archival materials are deposited with the versioned Zenodo record; their SHA-256 hashes are listed in `docs/BINARY_ASSETS.sha256`.
+The complete archival package also contains the manuscript PDFs, seven publication figures, source LaTeX, retained development-stage scripts, additional frozen tables, and large numerical assets. Those binary/archival materials are prepared for the versioned Zenodo deposit; their SHA-256 hashes are listed in `docs/BINARY_ASSETS.sha256`.
 
 The compact `v1_0_nominal_resistivity` and `v1_1_nominal_SIP_parameters` tables in this GitHub repository contain only the rows actually consumed by the final reproduction scripts. The full corresponding frozen tables are retained in the archival package.
 
@@ -84,4 +84,4 @@ The study intentionally distinguishes fully executable final analyses from earli
 
 GitHub repository: `https://github.com/epleite/basalt-co2-process-identifiability`
 
-A versioned Zenodo DOI is used for the complete archival release. The manuscript Open Research statement should cite that version DOI together with this repository.
+The complete archival package is prepared for a versioned Zenodo deposit. Once the DOI is issued, the manuscript Open Research statement should cite that version DOI together with this repository.
