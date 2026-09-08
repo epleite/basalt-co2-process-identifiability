@@ -18,10 +18,12 @@ All study outputs are synthetic. The model uses published literature to constrai
 
 ## Authoritative files
 
-The manuscript's headline numbers are taken from the compact CSVs in `data/frozen/`. Large Monte Carlo scenario tables are stored separately under `data/large/` for archival deposition.
+The manuscript's headline numbers are taken from the compact CSVs in `data/frozen/`. Large Monte Carlo scenario tables and the complete unfiltered frozen tables are retained in the archival package prepared for Zenodo.
 
 Original executable scripts are retained when they exist as complete stand-alone programs. Several intermediate stages were developed interactively before the submission repository was frozen. For these, validated stage-level numerical tables are preserved rather than presenting later stubs as if they were the original complete executable workflows.
 
 This distinction is particularly important for the v0.6-v0.7 wave-model development. The manuscript's exact/elastic headline tables are preserved, and the final Bayesian calculation consumes those frozen values explicitly. The repository therefore supports numerical verification of the paper without overstating code provenance.
 
-**Transfer status:** The above describes the complete source package. Consult the root README for what has actually been published in this repository so far.
+## Public GitHub versus archival package
+
+The public GitHub repository contains the lightweight executable computational core required to reproduce the final FEM and Bayesian headline results. The complete archival package prepared for Zenodo additionally contains manuscript binaries, publication figures, source LaTeX, retained development-stage scripts, additional frozen tables, and large numerical assets. Binary integrity is tracked in `docs/BINARY_ASSETS.sha256`.
