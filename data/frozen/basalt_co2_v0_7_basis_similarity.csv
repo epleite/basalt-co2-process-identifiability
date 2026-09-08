@@ -1,0 +1,73 @@
+model_form,time_days,channel,process_A,process_B,signed_cosine_similarity,absolute_cosine_similarity
+DEM-tangent,365,PP,fluid,dissolution,0.9274740196473871,0.9594159534963471
+DEM-tangent,365,PP,fluid,cementation,-0.9435647575686303,0.9512239275085441
+DEM-tangent,365,PP,dissolution,cementation,-0.9892090133331161,0.997906682469938
+DEM-tangent,365,PS,fluid,dissolution,0.9699214314446755,0.9871360693736914
+DEM-tangent,365,PS,fluid,cementation,-0.91318485760765,0.9742990496345161
+DEM-tangent,365,PS,dissolution,cementation,-0.9827870360715123,0.9964380822555361
+DEM-tangent,365,PP+PS normalized,fluid,dissolution,0.5519897326432391,0.5521036176013452
+DEM-tangent,365,PP+PS normalized,fluid,cementation,-0.5166693405625352,0.5220809278853198
+DEM-tangent,365,PP+PS normalized,dissolution,cementation,-0.9828703015770806,0.9960991932674732
+DEM-tangent,1095,PP,fluid,dissolution,0.9660534519387175,0.9662587581239457
+DEM-tangent,1095,PP,fluid,cementation,-0.9542746562248728,0.9552036779911267
+DEM-tangent,1095,PP,dissolution,cementation,-0.9966966116472764,0.9988850260449333
+DEM-tangent,1095,PS,fluid,dissolution,0.9614434490414991,0.9848164882284453
+DEM-tangent,1095,PS,fluid,cementation,-0.9782721064684384,0.9864412937877083
+DEM-tangent,1095,PS,dissolution,cementation,-0.9947511642398779,0.9987364910225737
+DEM-tangent,1095,PP+PS normalized,fluid,dissolution,0.7056325673692532,0.7065506091632817
+DEM-tangent,1095,PP+PS normalized,fluid,cementation,-0.6530901304773179,0.6531517505220501
+DEM-tangent,1095,PP+PS normalized,dissolution,cementation,-0.9930108741732457,0.996283005028933
+DEM-tangent,1825,PP,fluid,dissolution,0.9623657673310746,0.9669559320167056
+DEM-tangent,1825,PP,fluid,cementation,-0.9564817049064648,0.9567271639807685
+DEM-tangent,1825,PP,dissolution,cementation,-0.9958727896426831,0.9987900347988934
+DEM-tangent,1825,PS,fluid,dissolution,0.9623697780999445,0.9851985725356612
+DEM-tangent,1825,PS,fluid,cementation,-0.9809233973881412,0.9871604981610829
+DEM-tangent,1825,PS,dissolution,cementation,-0.9931770108129162,0.9984338846040229
+DEM-tangent,1825,PP+PS normalized,fluid,dissolution,0.7777177787203307,0.7823274391356577
+DEM-tangent,1825,PP+PS normalized,fluid,cementation,-0.7312265857520909,0.7316113288848892
+DEM-tangent,1825,PP+PS normalized,dissolution,cementation,-0.9918296066581813,0.9958027851917401
+DEM-tangent,3650,PP,fluid,dissolution,0.9623634642941707,0.9668315888449004
+DEM-tangent,3650,PP,fluid,cementation,-0.9563644293602859,0.9565712002799914
+DEM-tangent,3650,PP,dissolution,cementation,-0.9958256961705089,0.9987845945734938
+DEM-tangent,3650,PS,fluid,dissolution,0.9610530031699667,0.9849782932185494
+DEM-tangent,3650,PS,fluid,cementation,-0.9802886808309565,0.9870310608531283
+DEM-tangent,3650,PS,dissolution,cementation,-0.9930873739133451,0.9984164496869166
+DEM-tangent,3650,PP+PS normalized,fluid,dissolution,0.7792999708175151,0.7838314257152513
+DEM-tangent,3650,PP+PS normalized,fluid,cementation,-0.7328580394597423,0.7332095864775456
+DEM-tangent,3650,PP+PS normalized,dissolution,cementation,-0.9917735525590362,0.9957897453796705
+critical-porosity,365,PP,fluid,dissolution,0.822336924693089,0.8608021150986082
+critical-porosity,365,PP,fluid,cementation,-0.891420053625937,0.9009623979213967
+critical-porosity,365,PP,dissolution,cementation,-0.9854971905292249,0.9949494870327885
+critical-porosity,365,PS,fluid,dissolution,0.9766899900755,0.9868429475319915
+critical-porosity,365,PS,fluid,cementation,-0.9504628888724911,0.9797204336306969
+critical-porosity,365,PS,dissolution,cementation,-0.9922533007472978,0.9975790929232747
+critical-porosity,365,PP+PS normalized,fluid,dissolution,0.4358290753471676,0.443687326934922
+critical-porosity,365,PP+PS normalized,fluid,cementation,-0.5117776673254298,0.5128096697704059
+critical-porosity,365,PP+PS normalized,dissolution,cementation,-0.9886416824984697,0.9946116475286836
+critical-porosity,1095,PP,fluid,dissolution,0.8714058417223617,0.87151805272583
+critical-porosity,1095,PP,fluid,cementation,-0.8989736280045373,0.9004700530242703
+critical-porosity,1095,PP,dissolution,cementation,-0.9957062074219822,0.9973175301422184
+critical-porosity,1095,PS,fluid,dissolution,0.9703955204971461,0.985962245444874
+critical-porosity,1095,PS,fluid,cementation,-0.9841230611136484,0.9856570071477624
+critical-porosity,1095,PS,dissolution,cementation,-0.9919925061607802,0.9992415672074612
+critical-porosity,1095,PP+PS normalized,fluid,dissolution,0.6060020548956097,0.606003696622411
+critical-porosity,1095,PP+PS normalized,fluid,cementation,-0.6604622063089169,0.6612318548436047
+critical-porosity,1095,PP+PS normalized,dissolution,cementation,-0.9919299357994694,0.9962653286499736
+critical-porosity,1825,PP,fluid,dissolution,0.8720673249935784,0.8737057827135813
+critical-porosity,1825,PP,fluid,cementation,-0.9025328881442647,0.9025747284440829
+critical-porosity,1825,PP,dissolution,cementation,-0.9950424174895596,0.9972579527610826
+critical-porosity,1825,PS,fluid,dissolution,0.9711624909215811,0.9863093861325192
+critical-porosity,1825,PS,fluid,cementation,-0.9851629903990858,0.9860280102006695
+critical-porosity,1825,PS,dissolution,cementation,-0.9903864499253432,0.9990478336443249
+critical-porosity,1825,PP+PS normalized,fluid,dissolution,0.64583924830716,0.647423658106375
+critical-porosity,1825,PP+PS normalized,fluid,cementation,-0.7009754994051968,0.7010241536935705
+critical-porosity,1825,PP+PS normalized,dissolution,cementation,-0.9910986203164028,0.9960037272373634
+critical-porosity,3650,PP,fluid,dissolution,0.8718840443729967,0.8734466460786033
+critical-porosity,3650,PP,fluid,cementation,-0.9022831437672283,0.90231019607922
+critical-porosity,3650,PP,dissolution,cementation,-0.9950044955837154,0.9972546447502559
+critical-porosity,3650,PS,fluid,dissolution,0.9700784459370659,0.9861378006812868
+critical-porosity,3650,PS,fluid,cementation,-0.9848599383777098,0.9859277229398848
+critical-porosity,3650,PS,dissolution,cementation,-0.9902978101687179,0.9990366272914434
+critical-porosity,3650,PP+PS normalized,fluid,dissolution,0.6462100819025974,0.647746764077863
+critical-porosity,3650,PP+PS normalized,fluid,cementation,-0.7012873933694644,0.7013245072572021
+critical-porosity,3650,PP+PS normalized,dissolution,cementation,-0.9910490617760094,0.995995677405336
