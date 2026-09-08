@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "This repository is being populated; the complete versioned release and archival DOI are pending."
+title: "Basalt CO2 reactive-process identifiability: reproducibility package"
+type: software
+authors:
+  - family-names: Leite
+    given-names: Emilson Pereira
+    orcid: "https://orcid.org/0000-0003-1691-6243"
+repository-code: "https://github.com/epleite/basalt-co2-process-identifiability"
+license: MIT
+keywords:
+  - carbon mineralization
+  - basalt
+  - seismic monitoring
+  - induced polarization
+  - multiphysics
+  - Bayesian inversion
+  - identifiability

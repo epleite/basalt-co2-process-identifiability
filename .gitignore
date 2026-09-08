@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+reproduced/
+_build/
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+
+data/large/

@@ -1,0 +1,23 @@
+{
+  "title": "Basalt CO2 reactive-process identifiability: reproducibility package",
+  "description": "Code, synthetic numerical outputs, figures, and manuscript-support files for the study 'Breaking Reactive-Process Null Directions in Multiphysics Monitoring of Basalt Carbon Mineralization'.",
+  "creators": [
+    {
+      "name": "Leite, Emilson Pereira",
+      "orcid": "0000-0003-1691-6243",
+      "affiliation": "University of Campinas (UNICAMP)"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "carbon mineralization",
+    "basalt",
+    "seismic monitoring",
+    "spectral induced polarization",
+    "multiphysics",
+    "Bayesian inversion",
+    "process identifiability"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}
