@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "This repository is being populated; the complete versioned release and archival DOI are pending."
+message: "If you use this software, please cite the versioned archival release associated with this repository."
 title: "Basalt CO2 reactive-process identifiability: reproducibility package"
 type: software
 authors:
